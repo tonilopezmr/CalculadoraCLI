@@ -1,11 +1,12 @@
  ******* CALCULADORA CLI 2.0  *******
+=============
 
-Este proyecto ha sido realizado por Antonio López Marín y Antonio Rodrigo Gea López,
+Este proyecto ha sido realizado por Antonio Lï¿½pez Marï¿½n y Antonio Rodrigo Gea Lï¿½pez,
 hemos realizado este proyecto de la forma mas profesional que hemos sabido hacerlo
-con los conocimientos del año pasado.
+con los conocimientos del aï¿½o pasado.
 
  ******** INFORMACION ******** 
-
+=============
 La Calculadora CLI escrita en Java 7 con licencia Apache 2 la misma 
 licencia que la libreria que se ha usado Apache Commons CLI, sigue 
 el patron MVC.
@@ -21,16 +22,17 @@ Las librerias que se han utilizado son:
 	- JUnit v4.10: http://junit.org/ View on GitHub
 
 La calculadora realiza las siguientes operaciones: 
-	- Operaciones aritmetricas: suma, resta, multiplicación, división, resto, potencia y raíz desde la 1.0
+	- Operaciones aritmetricas: suma, resta, multiplicaciï¿½n, divisiï¿½n, resto, potencia y raï¿½z desde la 1.0
 	- Operaciones trigonometricas: seno, coseno, tangente
 	- Las tabla de verdad: AND, OR, XOR, NOT
 	- Conversiones entre binario, octal, decimal y hexadecimal
 
-El ejecutable CalculadoraCLI.jar, fue empaquetado con la libreria Commons cli para no tener que añadirala
-en el path del sistema, aunque pese un poco más, es muy poco lo que pesa el programa.
+El ejecutable CalculadoraCLI.jar, fue empaquetado con la libreria Commons cli para no tener que aï¿½adirala
+en el path del sistema, aunque pese un poco mï¿½s, es muy poco lo que pesa el programa.
 
 
  ******** FUNCIONALIDAD ******** 
+=============
 
 La Calculadora CLI tiene dos funcionalidades, una es si se escriben argumentos de entrada realiza esa 
 operacion y ya esta, y otra es si se quiere realizar muchas operaciones seguidas y para no tener el 
@@ -54,6 +56,7 @@ completamente para poder realizar muchas operaciones seguidas sin tener que escr
 de la aplicacion cada vez.
 
  ******** PRUEBAS UNITARIAS ******** 
+=============
 
 Se han echo pruebas unitarias al modelo, y al programa en general intentando cubrir la mayor parte
 de codigo comprobando con cobertura y las mas posibles situaciones para ver que el programa en ningun
@@ -65,6 +68,7 @@ Hay una testSuite para ejecutar las dos pruebas.
 
 
  ******** Flujo de la calculadora ******** 
+=============
 
 El controlador dividido en tres clases para evitar la "clase dios" y se reparte mejor el trabajo.
 
@@ -97,6 +101,8 @@ de formas mucho mas independiente, cuando hay que hacer algun cambio en el codig
 facil, y sin que lo demas tenga que trabajar diferente.
 
  ******** DEMAS COSAS ******** 
+ =============
+ 
 NOTA:
 	No tengo un grupo de opciones ya que si decido abrir la linea de 
         comandos de la calculadora no me dejaria hacer mas de una operacion
