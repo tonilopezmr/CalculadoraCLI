@@ -1,11 +1,11 @@
- ******* CALCULADORA CLI 2.0  *******
+CALCULADORA CLI 2.0  
 =============
 
 Este proyecto ha sido realizado por Antonio L�pez Mar�n y Antonio Rodrigo Gea L�pez,
 hemos realizado este proyecto de la forma mas profesional que hemos sabido hacerlo
 con los conocimientos del a�o pasado.
 
- ******** INFORMACION ******** 
+INFORMACION 
 =============
 La Calculadora CLI escrita en Java 7 con licencia Apache 2 la misma 
 licencia que la libreria que se ha usado Apache Commons CLI, sigue 
@@ -31,7 +31,7 @@ El ejecutable CalculadoraCLI.jar, fue empaquetado con la libreria Commons cli pa
 en el path del sistema, aunque pese un poco m�s, es muy poco lo que pesa el programa.
 
 
- ******** FUNCIONALIDAD ******** 
+FUNCIONALIDAD 
 =============
 
 La Calculadora CLI tiene dos funcionalidades, una es si se escriben argumentos de entrada realiza esa 
@@ -55,7 +55,7 @@ De esta forma tenemos una linea de comandos lo mas real posible como si abrieras
 completamente para poder realizar muchas operaciones seguidas sin tener que escribir el nombre 
 de la aplicacion cada vez.
 
- ******** PRUEBAS UNITARIAS ******** 
+PRUEBAS UNITARIAS
 =============
 
 Se han echo pruebas unitarias al modelo, y al programa en general intentando cubrir la mayor parte
@@ -67,7 +67,7 @@ los comandos si son diferentes y poner el nombre de la clase donde este el main 
 Hay una testSuite para ejecutar las dos pruebas.
 
 
- ******** Flujo de la calculadora ******** 
+Flujo de la calculadora 
 =============
 
 El controlador dividido en tres clases para evitar la "clase dios" y se reparte mejor el trabajo.
@@ -100,7 +100,7 @@ De modo que tenemos una clase que se comunica con la vista, otra clase se comuni
 de formas mucho mas independiente, cuando hay que hacer algun cambio en el codigo es mucho mas 
 facil, y sin que lo demas tenga que trabajar diferente.
 
- ******** DEMAS COSAS ******** 
+DEMAS COSAS
  =============
  
 NOTA:
