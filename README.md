@@ -1,9 +1,9 @@
 CALCULADORA CLI 2.0  
 =============
 
-Este proyecto ha sido realizado por Antonio L�pez Mar�n y Antonio Rodrigo Gea L�pez,
+Este proyecto ha sido realizado por Antonio López Marín y Antonio Rodrigo Gea López,
 hemos realizado este proyecto de la forma mas profesional que hemos sabido hacerlo
-con los conocimientos del a�o pasado.
+con los conocimientos del año pasado.
 
 INFORMACION 
 =============
@@ -22,7 +22,7 @@ Las librerias que se han utilizado son:
 	- JUnit v4.10: http://junit.org/ View on GitHub
 
 La calculadora realiza las siguientes operaciones: 
-	- Operaciones aritmetricas: suma, resta, multiplicaci�n, divisi�n, resto, potencia y ra�z desde la 1.0
+	- Operaciones aritmetricas: suma, resta, multiplicación, división, resto, potencia y raíz desde la 1.0
 	- Operaciones trigonometricas: seno, coseno, tangente
 	- Las tabla de verdad: AND, OR, XOR, NOT
 	- Conversiones entre binario, octal, decimal y hexadecimal
