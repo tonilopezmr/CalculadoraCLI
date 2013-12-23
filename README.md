@@ -27,8 +27,8 @@ La calculadora realiza las siguientes operaciones:
 	- Las tabla de verdad: AND, OR, XOR, NOT
 	- Conversiones entre binario, octal, decimal y hexadecimal
 
-El ejecutable CalculadoraCLI.jar, fue empaquetado con la libreria Commons cli para no tener que a�adirala
-en el path del sistema, aunque pese un poco m�s, es muy poco lo que pesa el programa.
+El ejecutable CalculadoraCLI.jar, fue empaquetado con la libreria Commons cli para no tener que añadirla
+en el path del sistema, aunque pese un poco más, es muy poco lo que pesa el programa.
 
 
 FUNCIONALIDAD 
