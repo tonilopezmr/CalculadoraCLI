@@ -72,30 +72,6 @@ Flujo de la calculadora
 
 El controlador dividido en tres clases para evitar la "clase dios" y se reparte mejor el trabajo.
 
-Comunicaciones entre clases:
-
-	CalculadoraApp.java		//Main
-		|
-		|
-		V
-	    VistaCLI.java		//Vista
-	       |  A
-   Inicia      |  | 	Vista del resultado
-	       V  |
-	 ControladorCLI.java		//Controlador
-	       |  A
-linea comandos |  | 	Comunica resultado
-	       V  |
-	ControladorComandos.java	//Controlador
-	       |  A
- Comunicacion  |  |	Resultado en objeto
-	       V  |
-	 ControladorCalc.java		//Controlador		
-	       |  A
-  Operacion    |  | 	Resultado
-	       V  |
-	   Calculadora.java	       	//Modelo
-
 De modo que tenemos una clase que se comunica con la vista, otra clase se comunica con el modelo, 
 de formas mucho mas independiente, cuando hay que hacer algun cambio en el codigo es mucho mas 
 facil, y sin que lo demas tenga que trabajar diferente.
