@@ -67,7 +67,7 @@ los comandos si son diferentes y poner el nombre de la clase donde este el main 
 Hay una testSuite para ejecutar las dos pruebas.
 
 
-Flujo de la calculadora 
+FLUJO DE LA CALCULADORA
 =============
 
 El controlador dividido en tres clases para evitar la "clase dios" y se reparte mejor el trabajo.
@@ -77,7 +77,7 @@ de formas mucho mas independiente, cuando hay que hacer algun cambio en el codig
 facil, y sin que lo demas tenga que trabajar diferente.
 
 DEMAS COSAS
- =============
+=============
  
 NOTA:
 	No tengo un grupo de opciones ya que si decido abrir la linea de 
