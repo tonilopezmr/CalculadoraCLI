@@ -1,15 +1,12 @@
 CALCULADORA CLI 2.0  
 =============
 
-Este proyecto ha sido realizado por Antonio López Marín y Antonio Rodrigo Gea López,
-hemos realizado este proyecto de la forma mas profesional que hemos sabido hacerlo
-con los conocimientos del año pasado.
+Calculadora de linea de comandos escrita en java usando el patron MVC.
 
 INFORMACION 
 =============
 La Calculadora CLI escrita en Java 7 con licencia Apache 2 la misma 
-licencia que la libreria que se ha usado Apache Commons CLI, sigue 
-el patron MVC.
+licencia que la libreria que se ha usado Apache Commons CLI.
 
 El repositorio esta subido a GitHub: https://github.com/tonilopezmr/CalculadoraCLI.git
 
