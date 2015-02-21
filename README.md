@@ -76,14 +76,8 @@ De modo que tenemos una clase que se comunica con la vista, otra clase se comuni
 de formas mucho mas independiente, cuando hay que hacer algun cambio en el codigo es mucho mas 
 facil, y sin que lo demas tenga que trabajar diferente.
 
-DEMAS COSAS
+Como funciona
 =============
- 
-NOTA:
-	No tengo un grupo de opciones ya que si decido abrir la linea de 
-        comandos de la calculadora no me dejaria hacer mas de una operacion
-	(la primera que hago) y las demas operaciones ya no las reconoce en
-	toda la ejecucion del programa.
 
 	Ej: Si abro la linea de comandos de la calculadora.
 	
